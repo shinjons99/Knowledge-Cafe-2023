@@ -1,0 +1,54 @@
+[
+    {   
+        "id": "1",
+        "image": "https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "author": {
+          "name": "Bill Gates",
+          "user_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-AHLAHsII0RE4zMHkhKeGo8LdAfxOsjoSEw&usqp=CAU"
+        },
+        "date": "April 14",
+        "read_time": 7,
+        "title": "How to get your first job as a self-taught programmer",
+        "description": "Master Microsoft Power Platform and Become an In-Demand!",
+        "tags": "#beginners #programming"
+    },
+    {   
+        "id": "2",
+        "image": "https://images.unsplash.com/photo-1518364538800-6bae3c2ea0f2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+        "author": {
+          "name": "Bill Jelen",
+          "user_image": "https://images.unsplash.com/profile-1515845399280-b2ad5d6828ed?dpr=1&auto=format&fit=crop&w=150&h=150&q=60&crop=faces&bg=fff"
+        },
+        "date": "February 11",
+        "read_time": 8,
+        "title": "The first launch of the SpaceX Falcon Heavy rocket.",
+        "description": "The first demonstration flight of SpaceX's Falcon Heavy rocket took place on Feb. 6, 2018, from Launch Pad 39A at NASA's Kennedy Space Center in Florida. The flight placed a Tesla Roadster, attached to its second stage, into solar orbit as far as the orbit of Mars9",
+        "tags": "#adventure #rocket science"
+    },
+    {   
+        "id": "3",
+        "image": "https://plus.unsplash.com/premium_photo-1670462145715-c32d0c91e81b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=80",
+        "author": {
+          "name": "Jeff Bezos",
+          "user_image": "https://imageio.forbes.com/specials-images/imageserve/5bb22ae84bbe6f67d2e82e05/0x0.jpg?format=jpg&crop=1012,1013,x627,y129,safe&height=416&width=416&fit=bounds"
+        },
+        "date": "December 31",
+        "read_time": 9,
+        "title": "eCommerce Business: Set Up Your Own Business From Home",
+        "description": "Simplest, most straightforward formula to set your own business from home and dominate e-commerce",
+        "tags": "#management #marketing"
+    },
+    {
+        "id": "4",
+        "image": "https://images.unsplash.com/photo-1535016120720-40c646be5580?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "author": {
+          "name": "Christopher Nolan",
+          "user_image": "https://www.onthisday.com/images/people/christopher-nolan-medium.jpg"
+        },
+        "date": "February 21",
+        "read_time": 6,
+        "title": "Hollywood Film School: Filmmaking & TV Directing Masterclass",
+        "description": "Learn How to Be a Working Hollywood Director, Take Your Filmmaking, Film School & Video Production to the Next Level",
+        "tags": "#beginners #filmmaking"
+    }
+]
